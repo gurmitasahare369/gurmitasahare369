@@ -30,7 +30,7 @@ Hi there! 👋 I’m **Gurmita Sahare**, a passionate **Web Developer and Design
 
 ## 🌟 My Projects
 
-### [Amazon Clone](https://github.com/gurmitasahare369/Amazon-Clone)
+### ✨ [Amazon Clone](https://github.com/gurmitasahare369/Amazon-Clone)
 - **Description**: A front-end website that replicates the core UI of Amazon's e-commerce platform.
 - **Features**
   - 🛍️ Product browsing and searching panel
