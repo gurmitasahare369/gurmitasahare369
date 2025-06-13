@@ -19,8 +19,8 @@ Hi there! 👋 I’m **Gurmita Sahare**, a passionate **Web Developer and Design
 - **Libraries & Frameworks**: React.js, GSAP, SwiperJS, ScrollTrigger, Locomotive Scroll  
 
 ### **Backend and Programming**  
-- **Languages**: Java, C  
-- **Databases**: MySQL  
+- **Languages**: Java, C, Python
+- **Databases**: MongoDb
 
 ### **Tools & Techniques**  
 - Responsive Design & Cross-Browser Compatibility  
