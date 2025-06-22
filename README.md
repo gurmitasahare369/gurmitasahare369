@@ -1,14 +1,16 @@
-# 💻 Gurmita Sahare | Web Developer & Designer  
+# 💻 Gurmita Sahare | MERN Stack Web Developer | Creative Coder & Designer
 
-Hi there! 👋 I’m **Gurmita Sahare**, a passionate **Web Developer and Designer**. As a fresher in the tech world, I’m eager to craft visually stunning and interactive websites while constantly learning and growing in this dynamic field.  
+Hi there! 👋 I’m **Gurmita Sahare**, a passionate **Web Developer and Designer** with a flair for creative design and interactive experiences. I love turning ideas into web magic using modern tools and clean code. 
 
 ---
 
 ## 🚀 About Me  
 - 🌟 A creative problem-solver with a passion for coding and design.  
-- 🎯 Always aiming to blend functionality with aesthetics in my work.  
-- 🌱 Currently exploring advanced front-end frameworks and libraries to sharpen my skills.  
-- 🤝 Open to collaborating on exciting projects and contributing to innovative ideas.  
+- 🎯 Always aiming to blend functionality with aesthetics in my work.
+- 🌐 Working with the MERN stack to build scalable, full-stack web apps.
+- 🌱 Currently exploring the worlds of Cybersecurity and AI/ML to expand my horizons.
+- 🚀 Always curious, always learning
+- 🤝 Open to collaborating with growth-driven teams on exciting projects and contributing to innovative ideas.  
 
 ---
 
@@ -16,15 +18,17 @@ Hi there! 👋 I’m **Gurmita Sahare**, a passionate **Web Developer and Design
 
 ### **Frontend Development**  
 - **Languages**: HTML5, CSS3, JavaScript  
-- **Libraries & Frameworks**: React.js, GSAP, SwiperJS, ScrollTrigger, Locomotive Scroll  
+- **Libraries & Frameworks**: React.js, GSAP, Frramer Motion, SwiperJS, ScrollTrigger, Locomotive Scroll  
 
 ### **Backend and Programming**  
+- **Technologies**: Node.js, Express.js
 - **Languages**: Java, C, Python
 - **Databases**: MongoDb
 
 ### **Tools & Techniques**  
-- Responsive Design & Cross-Browser Compatibility  
-- CSS Animations (Keyframes, Transforms, Filters)  
+- Responsive Design & Cross-Browser Compatibility
+- REST APIs & JSON handling 
+- CSS Animations & Micro-Interactions 
 
 ---
 
